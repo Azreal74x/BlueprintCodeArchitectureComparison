@@ -1,0 +1,15 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vs/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+Thumbs.db
+Desktop.ini
